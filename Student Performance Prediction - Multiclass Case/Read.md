@@ -37,6 +37,7 @@ Arxiv Link: https://arxiv.org/abs/2006.05031
 
 
 @article{injadat2020systematic,
+
    author={M. {Injadat} and A. {Moubayed} and A. B. {Nassif} and A. {Shami}},
    
    journal={Applied Intelligence},
