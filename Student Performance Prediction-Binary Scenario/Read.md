@@ -35,12 +35,21 @@ Arxiv link: https://arxiv.org/abs/2005.06647
 
 @article{injadat2020systematic,
    author={M. {Injadat} and A. {Moubayed} and A. B. {Nassif} and A. {Shami}},
+   
    journal={Knowledge-based Systems},
+   
    title={{Systematic ensemble model selection approach for educational data mining}},
+   
    year={2020},
+   
    volume={200},
+   
    pages={105992},
+   
    issn = {0950-7051},
+   
    doi={10.1016/j.knosys.2020.105992},
+   
    month={Jul.}, 
+   
    publisher={Elsevier}}
