@@ -17,7 +17,8 @@ Any empty mark was replaced with 0. Also, all features were converted to a mark 
 -	Good (G) — the student will finish the course with a good grade (60-100)
 -	Weak (W) — the student will finish the course with a weak grade (≤ 59). This limit was chosen since the typical passing grade for undergraduate course is often set to 60 in most universities.
 The target group is the Weak students (W) who are predicted to receive a mark below 60%, meaning that they are at risk of failing the course. This dataset was used as part of a comparative analysis work completed to predict student’s performance at earlier stages of the course delivery using machine learning models. The developed models use ensemble classification techniques to categorize the students and predict their final performance group/category. Different techniques were used individually or as a part of an ensemble learner model to predict the final performance group during the course at two stages — at 20% and 50% of the coursework. 
-	Contact information:
+
+**Contact information:**
 Please feel free to contact me for any questions or cooperation opportunities. I'd be happy to help.
 Email: minjadat@uwo.ca
 
