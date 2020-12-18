@@ -28,7 +28,9 @@ Email: minjadat@uwo.ca
 
 If you find this dataset useful in your research, please cite this article as:
 M. Injadat, A. Moubayed, A. B. Nassif, and A. Shami, “Systematic ensemble model selection approach for educational data mining,” Knowledge-based Systems, vol. 200, p. 105992, Jul. 2020.
+
 Link: https://www.sciencedirect.com/science/article/abs/pii/S0950705120302999
+
 Arxiv link: https://arxiv.org/abs/2005.06647
 
 @article{injadat2020systematic,
