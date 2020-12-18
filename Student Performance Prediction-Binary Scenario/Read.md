@@ -1,4 +1,5 @@
 **Description:**
+
 The collected dataset is from a second year undergraduate Science course offered at a North American University. The dataset consists of the obtained grades of the 486 enrolled students in the different assignments, quizzes, and exams. The dataset contains a total of 9 features as per the table below:
 
 |Feature|	Description|	Type |	Value/s |
@@ -19,10 +20,12 @@ Any empty mark was replaced with 0. Also, all features were converted to a mark 
 The target group is the Weak students (W) who are predicted to receive a mark below 60%, meaning that they are at risk of failing the course. This dataset was used as part of a comparative analysis work completed to predict student’s performance at earlier stages of the course delivery using machine learning models. The developed models use ensemble classification techniques to categorize the students and predict their final performance group/category. Different techniques were used individually or as a part of an ensemble learner model to predict the final performance group during the course at two stages — at 20% and 50% of the coursework. 
 
 **Contact information:**
+
 Please feel free to contact me for any questions or cooperation opportunities. I'd be happy to help.
 Email: minjadat@uwo.ca
 
 **Citation:**
+
 If you find this dataset useful in your research, please cite this article as:
 M. Injadat, A. Moubayed, A. B. Nassif, and A. Shami, “Systematic ensemble model selection approach for educational data mining,” Knowledge-based Systems, vol. 200, p. 105992, Jul. 2020.
 Link: https://www.sciencedirect.com/science/article/abs/pii/S0950705120302999
